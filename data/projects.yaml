@@ -1,0 +1,16 @@
+projects:
+- title: "Financial Document Analysis using LLM’s"
+  subtitle: "University of Arizona"
+  date: "2025"
+  details: |
+    Developed and tuned prompts for LLMs to extract key investment themes, market outlooks, and portfolio strategies from unstructured financial narratives for a financial services firm, doubling extraction accuracy.
+    Designed and implemented a custom rating system to evaluate the accuracy and quality of LLM-generated insights from hedge fund partner letters.
+    Produced structured, investor-ready analysis to enable hedge fund managers to benchmark strategies against peer and top-performing investor communications.
+
+- title: "GNN’s for Node Level Regression"
+  subtitle: "Material Informatics LAb, UOA"
+  date: "2025"
+  details: |
+    Designed and implemented multiple Graph Neural Network architectures (GCN, GAT, GraphSAGE, GIN) to perform node-level regression for predicting localized stress in material structures.
+    Optimized model performance through dropout, batch normalization, skip connections, and hyperparameter tuning, achieving improvements in prediction accuracy.
+    Utilized the university’s HPC cluster for parallel and efficient training of large-scale GNN models on complex graphs

@@ -1,0 +1,38 @@
+- company: Connor Group
+  roles:
+    - role: Digital Solutions Analyst
+      details: |
+        Deployed all essential bundles required to initiate and configure a NetSuite production environment, laying the groundwork for ERP-based financial operations.
+        
+        Supported system integration efforts by configuring and deploying Workato recipes to enable seamless data flow between NetSuite and external platforms.
+        
+        Leveraged NetSuite’s SuiteAnalytics and saved search capabilities to deliver real-time financial reporting and KPI tracking, aligning outputs with business objectives and saving 3+ hours of manual reporting each week.
+      date: 06.2025 -  Present
+
+- company: Deloitte
+  page: 1
+  roles: 
+    - role: Senior Executive
+      tools: Excel, VBA, PowerBi, Tableau, Python, SQL
+      details: |
+        Built a Power BI dashboard for a client to analyze weekly accounts receivable, leveraging custom Excel macros and complex DAX formulas to extract actionable insights and save 8-10 hours of manual analysis each week
+        
+        Streamlined the process, to identify cash-saving opportunities, reduced errors, and saved time by designing standardized dashboards in PowerBi and using Alteryx for data preprocessing.
+        
+        Saved 20 man-hours per week by developing an ETL system with advanced Excel macros, seamlessly integrating the cleaned data into a Tableau dashboard.
+        
+        Conducted comprehensive company-level working capital benchmarks across diverse sectors using CapIQ as a data source, writing detailed reports leading to the acquisition of several new clients.
+        
+        Developed Excel VBA-based automation tools to streamline email communication and create user forms for capturing essential data, significantly improving efficiency across multiple geographies.
+      date: 09.2022 - 01.2024
+
+- company: Kroll
+  page: 2
+  roles:
+    - role: Financial Data Analyst
+      tools: Excel, CapIQ, VBA
+      details: |
+        Cleaned and structured, unstructured portfolio data of US Business Development Companies (BDC's) for benchmark creation and model use.
+        
+        Preprocessed and verified financial data for portfolios of US-based BDCs for financial analysis and reporting.
+      date: 11.2021 - 09.2022

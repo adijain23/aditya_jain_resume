@@ -1,0 +1,13 @@
+- name: Msc. Management Information System
+  university: Eller College of Management, UOA
+  location: Tucson, AZ
+  date: 2024 - 2025
+  gpa: 3.89 / 4.00
+  details: >
+    Include details if you like to... 
+
+- name: Bsc. Finance
+  university: Mumbai University
+  location: Mumbai, India
+  date: 2018 - 2021
+  gpa : 9.1 / 10.0

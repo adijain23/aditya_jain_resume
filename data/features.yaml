@@ -1,0 +1,61 @@
+about:
+  name: Aditya Jain
+  tagline: Data Analyst
+  phone: "520-390-8760"
+  email: adityahjain@arizona.edu
+  links:
+    - title: /in/mertbakir
+      url: https://tr.linkedin.com/in/adityajaincfa
+      icon: fab fa-linkedin
+  details: |
+    Graduate student in MIS with CFA Level III and strong expertise in Python, SQL, and advanced analytics. Experienced in building, dashboards, and machine learning models that deliver efficiency gains and actionable insights, combining technical skills with financial acumen to drive business impact.
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - SQL - Snowflake - Digital Ocean
+
+  - groupName: Machine Learning
+    list:
+      - Tensorflow - Scikit-learn - Pytorch - Pandas
+
+  - groupName: Programming & Systems
+    list:
+      - Python - R - Stata - DAX - SQL - VBA
+
+interests:
+  - Data Science
+  - AI Applications
+  
+languages:
+  - name: Hindi
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+      - "TOEFL: 108 - 2024"
+
+# This will use the default widget: "details-list"
+
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Chartered Financial Analyst"
+    subtitle: CFA Institute
+    date: "2024"
